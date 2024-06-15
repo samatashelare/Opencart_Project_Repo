@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-15T12:52:28Z" name="Default suite" finished-at="2024-06-15T12:52:54Z" duration-ms="25305">
+    <groups>
+    </groups>
+    <test started-at="2024-06-15T12:52:28Z" name="Default test" finished-at="2024-06-15T12:52:54Z" duration-ms="25305">
+      <class name="testLayer.LoginTest">
+        <test-method is-config="true" signature="browserSetUp()[pri:0, instance:testLayer.LoginTest@31ea9581]" started-at="2024-06-15T18:22:28Z" name="browserSetUp" finished-at="2024-06-15T18:22:53Z" duration-ms="24700" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetUp -->
+        <test-method signature="verifyLoginTestWithValidDetails()[pri:0, instance:testLayer.LoginTest@31ea9581]" started-at="2024-06-15T18:22:53Z" name="verifyLoginTestWithValidDetails" finished-at="2024-06-15T18:22:53Z" duration-ms="229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginTestWithValidDetails -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testLayer.LoginTest@31ea9581]" started-at="2024-06-15T18:22:53Z" name="tearDown" finished-at="2024-06-15T18:22:54Z" duration-ms="338" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testLayer.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
